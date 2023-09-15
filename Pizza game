@@ -1,0 +1,52 @@
+Welcome to Your Pizza Place! 🍕
+
+You're the owner of a small pizza restaurant. Your goal is to serve delicious pizzas to your customers and manage your resources effectively.
+
+Commands:
+- 'order' to take a customer's order
+- 'prepare' to make the pizza
+- 'serve' to give the pizza to the customer
+- 'inventory' to check your ingredient stock
+- 'quit' to exit the game
+
+Your starting inventory:
+- Dough: 10
+- Cheese: 10
+- Tomato Sauce: 10
+
+Let's get started!
+
+> order
+A customer wants to order a pizza. What type of pizza would you like to make? (cheese/pepperoni/vegetarian)
+> cheese
+You received an order for a cheese pizza. Let's prepare it!
+
+> prepare
+You prepared a cheese pizza. It's now ready to be served.
+
+> serve
+You served the pizza to the customer. Enjoy!
+
+> inventory
+Inventory:
+- Dough: 9
+- Cheese: 9
+- Tomato Sauce: 10
+
+> order
+A customer wants to order a pizza. What type of pizza would you like to make? (cheese/pepperoni/vegetarian)
+> pepperoni
+You received an order for a pepperoni pizza. Uh-oh, you don't have enough cheese!
+
+> inventory
+Inventory:
+- Dough: 9
+- Cheese: 9
+- Tomato Sauce: 10
+
+> prepare
+You don't have enough ingredients to prepare this pizza. Check your inventory and try again.
+
+> quit
+Thanks for playing Your Pizza Place!
+
